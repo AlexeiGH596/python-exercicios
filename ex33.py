@@ -1,4 +1,3 @@
-#exercício paia...
 a = int(input('Digite um número inteiro: '))
 b = int(input('Digite outro número inteiro: '))
 c = int(input('Agora, o último: '))
